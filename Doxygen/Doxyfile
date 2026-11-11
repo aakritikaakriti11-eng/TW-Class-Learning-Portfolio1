@@ -1,0 +1,17 @@
+
+PROJECT_NAME = "Calculator Documentation"
+PROJECT_NUMBER = 1.0
+PROJECT_BRIEF = "Documentation generated using Doxygen"
+
+OUTPUT_DIRECTORY = docs
+
+INPUT = main.cpp
+RECURSIVE = YES
+
+EXTRACT_ALL = YES
+EXTRACT_PRIVATE = YES
+
+GENERATE_HTML = YES
+GENERATE_LATEX = NO
+
+QUIET = NO
